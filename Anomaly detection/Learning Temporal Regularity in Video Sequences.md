@@ -58,7 +58,7 @@ Second, building end-to-end learning  framework that is based on fully conventio
 
     The model has four hidden layers with 2,000, 1,000, 500, and 30 neurons respectively, whereas the decoder has three hidden layers with 500, 1,000 and 2,000 neurons respectively.
 
-    ![i1](/imgs/LTRVS/1.JPG)
+    ![i1](/Anomaly%20detection/imgs/LTRVS/1.JPG)
     
 
 * 
